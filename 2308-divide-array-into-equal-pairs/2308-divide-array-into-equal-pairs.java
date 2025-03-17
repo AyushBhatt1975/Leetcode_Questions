@@ -1,8 +1,11 @@
 class Solution {
     public boolean divideArray(int[] nums) {
-        Arrays.sort(nums);
-        for (int i = 0; i < nums.length; i = i + 2) {
-            if (nums[i] != nums[i + 1]) {
+        int[] freq = new int[501];
+        for (int i = 0; i < nums.length; i++) {
+            freq[nums[i]]++;
+        }
+        for (int i = 0; i < 500; i++) {
+            if (freq[i] % 2 != 0) {
                 return false;
             }
         }
