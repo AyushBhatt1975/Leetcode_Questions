@@ -29,9 +29,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0089-gray-code) |
 | [2308-divide-array-into-equal-pairs](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/2308-divide-array-into-equal-pairs) |
 ## Counting
 |  |
 | ------- |
 | [2308-divide-array-into-equal-pairs](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/2308-divide-array-into-equal-pairs) |
+## Math
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0089-gray-code) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
