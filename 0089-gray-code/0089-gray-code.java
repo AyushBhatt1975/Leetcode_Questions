@@ -1,9 +1,18 @@
 class Solution {
     public List<Integer> grayCode(int n) {
-        List<Integer> v = new ArrayList<Integer>();
-        for (int i = 0; i < 1 << n; i++) {
-            v.add(i ^ (i >> 1));
+        List<Integer> ans = new ArrayList<>();
+        if(n==1){
+        ans.add(0);
+        ans.add(1);
+        return ans;
         }
-        return v;
+         List<Integer> prev = grayCode(n-1);
+         for(int i=0;i<prev.size();i++){
+            ans.add(prev.get(i));
+         }
+        for(int i = ans.size()-1;i>=0;i--){
+            ans.add((int)Math.pow(2,n-1)+prev.get(i));
+        }
+        return ans;
     }
 }
