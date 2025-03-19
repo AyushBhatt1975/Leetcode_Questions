@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0089-gray-code) |
+| [2050-count-good-numbers](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/2050-count-good-numbers) |
 ## Backtracking
 |  |
 | ------- |
@@ -54,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Recursion
+|  |
+| ------- |
+| [2050-count-good-numbers](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/2050-count-good-numbers) |
 <!---LeetCode Topics End-->
