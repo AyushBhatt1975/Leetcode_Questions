@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0792-binary-search) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1580-shuffle-the-array](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/1580-shuffle-the-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/2308-divide-array-into-equal-pairs) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Hash Table
