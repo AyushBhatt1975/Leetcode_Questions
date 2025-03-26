@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2048-build-array-from-permutation](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/2058-concatenation-of-array) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2308-divide-array-into-equal-pairs](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2727-number-of-senior-citizens](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/2727-number-of-senior-citizens) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0089-gray-code) |
 | [2050-count-good-numbers](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/2050-count-good-numbers) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Backtracking
 |  |
 | ------- |
@@ -106,4 +108,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1505-create-target-array-in-the-given-order](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/1505-create-target-array-in-the-given-order) |
 | [2048-build-array-from-permutation](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/2058-concatenation-of-array) |
+## Sorting
+|  |
+| ------- |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+## Matrix
+|  |
+| ------- |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 <!---LeetCode Topics End-->
