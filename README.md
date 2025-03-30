@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0038-count-and-say) |
+| [0125-valid-palindrome](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0125-valid-palindrome) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2727-number-of-senior-citizens](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/2727-number-of-senior-citizens) |
 ## Bit Manipulation
@@ -121,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
