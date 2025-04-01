@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/2058-concatenation-of-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2262-solving-questions-with-brainpower](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/2262-solving-questions-with-brainpower) |
 | [2308-divide-array-into-equal-pairs](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2727-number-of-senior-citizens](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/2727-number-of-senior-citizens) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0070-climbing-stairs) |
+| [2262-solving-questions-with-brainpower](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/2262-solving-questions-with-brainpower) |
 ## Memoization
 |  |
 | ------- |
