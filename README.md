@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/1580-shuffle-the-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/2058-concatenation-of-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0089-gray-code) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/2308-divide-array-into-equal-pairs) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Counting
@@ -71,12 +73,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0089-gray-code) |
 | [0633-sum-of-square-numbers](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0633-sum-of-square-numbers) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Backtracking
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0089-gray-code) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Queue
 |  |
 | ------- |
@@ -133,4 +137,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0125-valid-palindrome) |
 | [0633-sum-of-square-numbers](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0633-sum-of-square-numbers) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
