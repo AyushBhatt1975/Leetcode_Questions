@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2262-solving-questions-with-brainpower](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/2262-solving-questions-with-brainpower) |
 | [2308-divide-array-into-equal-pairs](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/2308-divide-array-into-equal-pairs) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2727-number-of-senior-citizens](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/2727-number-of-senior-citizens) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0567-permutation-in-string) |
 | [2308-divide-array-into-equal-pairs](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/2308-divide-array-into-equal-pairs) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/2888-minimum-index-of-a-valid-split) |
 ## Prefix Sum
 |  |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0567-permutation-in-string) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Recursion
 |  |
