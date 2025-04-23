@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0454-4sum-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0567-permutation-in-string) |
+| [1500-count-largest-group](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/1500-count-largest-group) |
 | [2308-divide-array-into-equal-pairs](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0189-rotate-array) |
 | [0633-sum-of-square-numbers](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0633-sum-of-square-numbers) |
+| [1500-count-largest-group](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/1500-count-largest-group) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
