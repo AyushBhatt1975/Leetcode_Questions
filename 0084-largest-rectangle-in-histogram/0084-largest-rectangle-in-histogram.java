@@ -1,45 +1,23 @@
+import java.util.Stack;
+
 class Solution {
     public int largestRectangleArea(int[] heights) {
+        Stack<Integer> stack = new Stack<>();
         int maxArea = 0;
-        int nsr[] = new int[heights.length]; // Next Smaller Right
-        int nsl[] = new int[heights.length]; // Next Smaller Left
+        int n = heights.length;
 
-        // Stack for finding NSR (Next Smaller Right)
-        Stack<Integer> s = new Stack<>();
+        for (int i = 0; i <= n; i++) {
+            int currentHeight = (i == n) ? 0 : heights[i];
 
-        for(int i = heights.length-1; i >= 0; i--) {
-            while(!s.isEmpty() && heights[s.peek()] >= heights[i]) {
-                s.pop();
+            while (!stack.isEmpty() && heights[stack.peek()] > currentHeight) {
+                int height = heights[stack.pop()];
+                int width = stack.isEmpty() ? i : i - stack.peek() - 1;
+                maxArea = Math.max(maxArea, height * width);
             }
-            if(s.isEmpty()) {
-                nsr[i] = heights.length;
-            } else {
-                nsr[i] = s.peek();
-            }
-            s.push(i);
+
+            stack.push(i);
         }
 
-        // Stack for finding NSL (Next Smaller Left)
-        s = new Stack<>();
-        for(int i = 0; i < heights.length; i++) {
-            while(!s.isEmpty() && heights[s.peek()] >= heights[i]) {
-                s.pop();
-            }
-            if(s.isEmpty()) {
-                nsl[i] = -1;
-            } else {
-                nsl[i] = s.peek();
-            }
-            s.push(i);
-        }
-
-        // Current Area : width = j-i-1 = nsr[i] - nsl[i] - 1
-        for(int i = 0; i < nsl.length; i++) {
-            int height = heights[i];
-            int width = nsr[i] - nsl[i] - 1;
-            int currArea = height * width;
-            maxArea = Math.max(currArea, maxArea);
-        }
         return maxArea;
     }
 }
