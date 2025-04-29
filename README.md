@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0089-gray-code) |
+| [0231-power-of-two](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0231-power-of-two) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/2308-divide-array-into-equal-pairs) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0231-power-of-two) |
 | [0633-sum-of-square-numbers](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0633-sum-of-square-numbers) |
 | [1500-count-largest-group](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/1500-count-largest-group) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0231-power-of-two) |
 | [2050-count-good-numbers](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/2050-count-good-numbers) |
 ## Dynamic Programming
 |  |
