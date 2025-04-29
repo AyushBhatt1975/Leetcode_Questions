@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0125-valid-palindrome) |
 | [0567-permutation-in-string](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0567-permutation-in-string) |
@@ -206,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0084-largest-rectangle-in-histogram) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
