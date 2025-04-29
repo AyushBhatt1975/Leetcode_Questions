@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0160-intersection-of-two-linked-lists](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0454-4sum-ii](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0454-4sum-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0567-permutation-in-string) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0125-valid-palindrome) |
+| [0160-intersection-of-two-linked-lists](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0189-rotate-array) |
 | [0567-permutation-in-string](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0633-sum-of-square-numbers) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0021-merge-two-sorted-lists) |
+| [0160-intersection-of-two-linked-lists](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0206-reverse-linked-list) |
 ## Stack
 |  |
