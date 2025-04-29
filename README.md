@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0189-rotate-array) |
 | [0454-4sum-ii](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0454-4sum-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0792-binary-search) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0907-koko-eating-bananas) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0724-find-pivot-index) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2915-count-of-interesting-subarrays](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/2915-count-of-interesting-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
