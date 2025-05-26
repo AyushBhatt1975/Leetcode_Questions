@@ -1,30 +1,34 @@
 class Solution {
     public int coinChange(int[] coins, int amount) {
-        int[][] dp = new int[coins.length][amount + 1];
-        for (int[] row : dp) {
-            Arrays.fill(row, -1);
+        int dp[][] = new int[coins.length][amount + 1];
+        for (int[] d : dp) {
+            Arrays.fill(d, -1);
         }
-
-        int result = solve(0, amount, coins, dp);
-        return result >= (int)1e9 ? -1 : result;
+        int ans = minCoins(0, amount, coins, dp);
+        if (ans == 100000) {
+            return -1;
+        }
+        return ans;
     }
 
-    private int solve(int idx, int target, int[] coins, int[][] dp) {
-        if (idx == coins.length) {
-            return target == 0 ? 0 : (int)1e9; 
+    public int minCoins(int idx, int amount, int[] coins, int[][] dp) {
+        if (amount == 0) {
+            return 0;
         }
+        if (idx >= coins.length) {
+            return 100000;
 
-        if (dp[idx][target] != -1) return dp[idx][target];
-
-        
-        int notTake = solve(idx + 1, target, coins, dp);
-
-        
-        int take = (int)1e9;
-        if (coins[idx] <= target) {
-            take = 1 + solve(idx, target - coins[idx], coins, dp);
         }
+        if (dp[idx][amount] != -1) {
+            return dp[idx][amount];
+        }
+        int take = 100000;
+        if (coins[idx] <= amount) {
+            take = 1 + minCoins(idx, amount - coins[idx], coins, dp);
+        }
+        int nottake = minCoins(idx + 1, amount, coins, dp);
 
-        return dp[idx][target] = Math.min(take, notTake);
+        dp[idx][amount] = Math.min(take, nottake);
+        return dp[idx][amount];
     }
 }
