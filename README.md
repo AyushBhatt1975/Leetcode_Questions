@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0125-valid-palindrome) |
 | [0516-longest-palindromic-subsequence](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0567-permutation-in-string) |
+| [1250-longest-common-subsequence](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/1250-longest-common-subsequence) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2727-number-of-senior-citizens](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/2727-number-of-senior-citizens) |
 ## Bit Manipulation
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0518-coin-change-ii) |
 | [0954-maximum-sum-circular-subarray](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0954-maximum-sum-circular-subarray) |
+| [1250-longest-common-subsequence](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/1250-longest-common-subsequence) |
 | [2262-solving-questions-with-brainpower](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/2262-solving-questions-with-brainpower) |
 ## Memoization
 |  |
