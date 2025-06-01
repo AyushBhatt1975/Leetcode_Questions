@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0053-maximum-subarray) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0189-rotate-array) |
 | [0322-coin-change](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0322-coin-change) |
 | [0454-4sum-ii](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0454-4sum-ii) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0518-coin-change-ii) |
 | [0954-maximum-sum-circular-subarray](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0954-maximum-sum-circular-subarray) |
