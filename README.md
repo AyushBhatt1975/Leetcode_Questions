@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0125-valid-palindrome) |
+| [0516-longest-palindromic-subsequence](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0567-permutation-in-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2727-number-of-senior-citizens](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/2727-number-of-senior-citizens) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0322-coin-change) |
+| [0516-longest-palindromic-subsequence](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0518-coin-change-ii) |
 | [0954-maximum-sum-circular-subarray](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0954-maximum-sum-circular-subarray) |
 | [2262-solving-questions-with-brainpower](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/2262-solving-questions-with-brainpower) |
