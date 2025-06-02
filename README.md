@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0038-count-and-say) |
+| [0072-edit-distance](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0125-valid-palindrome) |
 | [0516-longest-palindromic-subsequence](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0567-permutation-in-string) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
