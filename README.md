@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0907-koko-eating-bananas) |
 | [0954-maximum-sum-circular-subarray](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0954-maximum-sum-circular-subarray) |
 | [1241-decompress-run-length-encoded-list](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/1241-decompress-run-length-encoded-list) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1505-create-target-array-in-the-given-order](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/1505-create-target-array-in-the-given-order) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/1580-shuffle-the-array) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0322-coin-change) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 ## Greedy
 |  |
 | ------- |
@@ -270,4 +272,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0129-sum-root-to-leaf-numbers) |
+## Graph
+|  |
+| ------- |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 <!---LeetCode Topics End-->
