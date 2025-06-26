@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0322-coin-change](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0322-coin-change) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 ## Greedy
@@ -263,14 +264,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/AyushBhatt1975/Leetcode_Questions/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Graph
 |  |
